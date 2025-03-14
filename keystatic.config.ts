@@ -27,7 +27,7 @@ export default config({
 	},
 	ui: {
 		brand: {
-			name: "Your Company",
+			name: "Phil Allcock",
 			mark: BrandMarkComponent,
 		},
 	},
